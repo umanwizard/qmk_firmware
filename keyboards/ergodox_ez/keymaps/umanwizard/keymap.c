@@ -79,7 +79,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   EEP_RST, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,                                         KC_TRNS, KC_DOT,  KC_0,    KC_EQL,  KC_TRNS,
                                                RGB_MOD, KC_TRNS,     RGB_TOG, RGB_SLD,
                                                         KC_TRNS,     KC_TRNS,
-                                      RGB_VAD, RGB_VAI, KC_TRNS,     KC_TRNS, RGB_HUD, RGB_HUI
+                                      KC_TRNS, KC_TRNS, KC_TRNS,     KC_TRNS, RGB_HUD, RGB_HUI
 ),
 /* Keymap 2: Media and mouse keys
  *
